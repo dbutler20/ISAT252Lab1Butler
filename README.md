@@ -1,2 +1,2 @@
 # ISAT252Lab1Butler
-Lab 1
+projects and labs for ISAT 252
